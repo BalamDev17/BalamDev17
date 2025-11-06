@@ -10,8 +10,7 @@
 ### 🧠 Sobre mí
 
 Soy un **programador apasionado por la tecnología y el desarrollo web**, actualmente **estudiante universitario de primer semestre en Informática**.  
-Programo por gusto y curiosidad, disfrutando cada reto que me permite aprender algo nuevo y mejorar mis habilidades.  
-Aunque he participado en proyectos reales, mi enfoque principal en este momento aun no es lo laboral, sino **crecer como desarrollador** y dominar las herramientas que me permitan construir software útil y bien estructurado.
+Programo por gusto y curiosidad, disfrutando cada reto que me permite aprender algo nuevo y mejorar mis habilidades. mi enfoque principal en este momento aun no es lo laboral, sino **crecer como desarrollador** y dominar las herramientas que me permitan construir software útil y bien estructurado.
 
 - 💻 Enfocado en el desarrollo **Full Stack**
 - ⚙️ Interesado en **arquitecturas limpias, seguridad y rendimiento**
